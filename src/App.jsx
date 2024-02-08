@@ -19,7 +19,7 @@ const questions = [
       'амфотерный оксид',
       'основный оксид',
     ],
-    correct: 2,
+    correct: 1,
   },
 ];
 
